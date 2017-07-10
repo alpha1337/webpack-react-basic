@@ -2,6 +2,7 @@
 Basic Stack for React / Babel / Sass / ES7+
 
 ```javascript
-npm install
-npm run watch
+1. npm install
+2. npm start
+3. npm run watch
 ```
