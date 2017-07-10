@@ -22569,9 +22569,9 @@ function toComment(sourceMap) {
 
 /***/ }),
 /* 187 */
-/***/ (function(module, exports, __webpack_require__) {
+/***/ (function(module, exports) {
 
-module.exports = __webpack_require__.p + "/images/c27e2216e29d7f85eefbf5fdcc6b44cc.png";
+module.exports = "data:image/png;base64,bW9kdWxlLmV4cG9ydHMgPSBfX3dlYnBhY2tfcHVibGljX3BhdGhfXyArICIvaW1hZ2VzL2NhNDBjZTY1YjA5MGYzMjhiMGIwYjM5ODhiZjM3NmM5LnBuZyI7"
 
 /***/ }),
 /* 188 */

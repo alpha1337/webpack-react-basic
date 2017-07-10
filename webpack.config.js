@@ -83,16 +83,16 @@ module.exports = {
                 // ==============
                 // Loader Info
                 // ==============
-                // file-loader: Instructs webpack to emit the required object as file and to return its public url.
                 // url-loader: The url-loader works like the file-loader, but can return a DataURL if the file is smaller than a byte limit.
+                // file-loader: Instructs webpack to emit the required object as file and to return its public url.
                 use: [{
+                    loader: 'url-loader', options: {
+                        limit: 8192
+                    }
+                }, {
                     loader: 'file-loader', options: {
                         useRelativePath: false,
                         outputPath: '/images/'
-                    }
-                }, {
-                    loader: 'url-loader', options: {
-                        limit: 8192
                     }
                 }]
             }
