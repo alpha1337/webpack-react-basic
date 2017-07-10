@@ -1,6 +1,6 @@
 // Dependencies
-import React from 'react';
-import ReactDOM from 'react-dom';
+import React from "react";
+import ReactDOM from "react-dom";
 
 // Import CSS
 import "./styles/index.scss";
