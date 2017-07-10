@@ -3,4 +3,5 @@ Basic Stack for React / Babel / Sass / ES7+
 
 ```javascript
 npm install
+npm run watch
 ```
