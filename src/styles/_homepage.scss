@@ -1,0 +1,15 @@
+h1 {
+  color: $void;
+  text-align: center;
+
+  &:after {
+    content: '';
+    background: url('../images/sample-image.png') no-repeat;
+    background-size: contain;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+  }
+}

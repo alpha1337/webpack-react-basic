@@ -1,0 +1,6 @@
+# MAC
+.DS_STORE
+**/.idea
+
+# NODE
+node_modules
